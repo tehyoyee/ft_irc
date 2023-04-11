@@ -1,7 +1,7 @@
 # 42 Seoul Project
 ## <ft_irc>
 
-taehykim, mikim3, jokang <br>
+참여자 : taehykim, mikim3, jokang <br>
 IRC 참고자료 : https://datatracker.ietf.org/doc/rfc2812/ <br>
 비동기식 논블로킹 멀티플렉서 TCP 통신 채팅프로그램 서버부 개발<br>
 Client, Server, Channel을 각각 객체로써 관리. <br>
